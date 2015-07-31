@@ -1,5 +1,5 @@
 # reduce-cocotile-2015-07
-[tentative] hadoop-streaming reducer for creating cocotile
+[tentative] hadoop-streaming reducer for creating [cocotile](https://github.com/gsi-cyberjapan/cocotile-spec)
 
 ## What is this?
 hadoop-streaming reducer for creating cocotile from a list of slippy map tilename and tile id as follows:
