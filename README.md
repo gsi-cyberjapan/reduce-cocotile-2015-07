@@ -1,4 +1,6 @@
 # reduce-cocotile-2015-07
+**Updated version is available at https://github.com/gsi-cyberjapan/hadoop-cocotile-201509. This repository will no longer be updated.**
+
 [tentative] hadoop-streaming reducer for creating [cocotile](https://github.com/gsi-cyberjapan/cocotile-spec)
 
 ## What is this?
